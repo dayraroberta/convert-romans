@@ -27,7 +27,7 @@ $node
 ## Instalação
 
 - Você deverá ter o node + npm instalados. Para guia de instalação, visite [o site oficial](https://www.npmjs.com/get-npm).
-- proceda com a instalação com `$npm install credit-card-validator-lib`
+- proceda com a instalação com `$npm install convert-romans`
 
 
 ## Roadmap oficial do projeto
