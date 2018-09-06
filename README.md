@@ -39,4 +39,4 @@ $node
 - Implementação de conversão de algarismos a partir de 4000.
 
 #### Versão 1.0.0 (released)
-- Funcionalidades: Converte algarismos romanos e arábicos de 1 até 1000.
+- Funcionalidades: Converte algarismos romanos e arábicos de 1 até 3999.
