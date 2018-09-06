@@ -1,4 +1,4 @@
-# Conversor de algarismos romanos v.1.0.0
+# Conversor de algarismos romanos v.1.0.1
 
 **Esta biblioteca se destina à conversão de algarismos romanos em arábicos e vice-versa.**
 
@@ -20,7 +20,7 @@ $node
 ```
 
 
-## Versão 1.0.0
+## Versão 1.0.1
 - Funcionalidades: Converte algarismos romanos e arábicos de 1 até 3999.
 
 
@@ -38,5 +38,5 @@ $node
 #### Versão 2.0.0 (previsão dezembro/2018)
 - Implementação de conversão de algarismos a partir de 4000.
 
-#### Versão 1.0.0 (released)
+#### Versão 1.0.1 (released)
 - Funcionalidades: Converte algarismos romanos e arábicos de 1 até 3999.

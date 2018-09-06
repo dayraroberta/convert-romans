@@ -1,6 +1,6 @@
 {
   "name": "convert-romans",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uma biblioteca que converte algarismos romanos para arábicos e arábicos para romanos.",
   "main": "index.js",
   "scripts": {
